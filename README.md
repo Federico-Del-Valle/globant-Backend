@@ -6,4 +6,7 @@
 =======
 Español
 ingles
+portugues 
+frances 
+aleman
 
