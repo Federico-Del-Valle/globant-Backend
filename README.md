@@ -1,2 +1,4 @@
 Español
 ingles
+portugues 
+aleman
